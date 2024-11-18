@@ -96,24 +96,6 @@ This project implements an IoT-based home automation system using a Raspberry Pi
 - Toggle home lighting using the mobile app interface.
 - Ensure the Raspberry Pi is connected to the same network as your mobile device for seamless communication.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or feature additions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Future Improvements
-
-- Add support for voice commands using an API like Google Assistant or Alexa.
-- Expand the system to include more sensors and actuators.
-- Implement enhanced security features for remote access.
-
-## Contact
-
-For questions or support, reach out to [Your Name] at [your.email@example.com].
-
-```
 
 ---
